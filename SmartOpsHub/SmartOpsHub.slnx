@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/services/" />
+  <Folder Name="/services/SmartOpsHub.AuthService/">
+    <Project Path="services/SmartOpsHub.AuthService/SmartOpsHub.AuthService.API/SmartOpsHub.AuthService.API.csproj" />
+    <Project Path="services/SmartOpsHub.AuthService/SmartOpsHub.AuthService.Application/SmartOpsHub.AuthService.Application.csproj" />
+    <Project Path="services/SmartOpsHub.AuthService/SmartOpsHub.AuthService.Domain/SmartOpsHub.AuthService.Domain.csproj" />
+    <Project Path="services/SmartOpsHub.AuthService/SmartOpsHub.AuthService.Infrastructure/SmartOpsHub.AuthService.Infrastructure.csproj" />
+  </Folder>
+</Solution>
